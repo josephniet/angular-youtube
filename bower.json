@@ -1,0 +1,13 @@
+{
+  "name": "nt-youtube",
+  "version": "0.0.0",
+  "main": "nt-youtube.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "angular": "latest"
+  }
+}
