@@ -23,6 +23,7 @@ function($rootScope) {
 	enablejsapi: 1,
 	events: {}
 	};
+	var mergedOptions;
 
 	function makeIt (container, data){
 	var player = new YT.Player(container, data);
